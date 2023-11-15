@@ -337,3 +337,4 @@ cython_debug/
 >>>>>>> b96320169b06116dc725304be3dc0e1dbc6f0398
 
 *.csv
+*.xlsx
